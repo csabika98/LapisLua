@@ -1,5 +1,13 @@
 ## LAPIS LUA
 
+## Screenshots
+
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
+
+
 # Install
 
 * Install LUA 5.1, LuaRocks and OpenResty [WSL/with Ubuntu 22.04], and finally install Lapis
