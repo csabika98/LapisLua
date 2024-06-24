@@ -1,3 +1,7 @@
+## LAPIS LUA
+
+# Install
+
 * Install LUA 5.1, LuaRocks and OpenResty [WSL/with Ubuntu 22.04], and finally install Lapis
 
 Official installation guide of OpenResty: 
