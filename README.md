@@ -17,6 +17,7 @@ https://openresty.org/en/linux-packages.html#ubuntu
 5. sudo apt-get install luarocks
 6. sudo apt-get install libssl-dev
 7. luarocks install lapis
+8. sudo luarocks install lua-resty-rsa
 ```
 
 # RUN
