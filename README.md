@@ -18,6 +18,9 @@ https://openresty.org/en/linux-packages.html#ubuntu
 6. sudo apt-get install libssl-dev
 7. luarocks install lapis
 8. sudo luarocks install lua-resty-rsa
+9. sudo apt-get install libbson-dev
+10. sudo apt-get install libmongoc-dev
+11. sudo luarocks install lua-mongo
 ```
 
 # RUN
